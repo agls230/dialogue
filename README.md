@@ -1,5 +1,3 @@
-# dialogue
-
 ## Project setup
 ```
 npm install
